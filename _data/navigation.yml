@@ -2,8 +2,8 @@
 main:
   # - title: "About"
   #   url: "/me/"
-  - title: "SimCam Tutorials"
-    url: "/tuts/"
+  # - title: "SimCam Tutorials"
+  #   url: "/tuts/"
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
